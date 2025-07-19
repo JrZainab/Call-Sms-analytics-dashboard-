@@ -76,7 +76,7 @@ def load_data():
 calls_df, sms_df = load_data()
 
 # ----- Sidebar Stats -----
-st.sidebar.markdown("## ⚰️ Summary Stats")
+st.sidebar.markdown("## Summary Stats")
 st.sidebar.metric("Total Calls", len(calls_df))
 st.sidebar.metric("Total SMS", len(sms_df))
 st.sidebar.metric("Avg Duration (sec)", round(calls_df['duration'].mean(), 2))
@@ -201,7 +201,7 @@ if 'contact' in calls_filtered.columns:
     st.plotly_chart(fig_contacts, use_container_width=True)
 
 # ----- Alerts Config -----
-st.subheader("🔔 Alert System")
+st.subheader("Alert System")
 missed_threshold_hour = st.slider("Alert if missed calls exceed N in 1 hour", 1, 10, 3)
 low_call_threshold_day = st.slider("Alert if total calls fall below X in 1 day", 1, 100, 10)
 missed_calls = calls_filtered[calls_filtered['outcome'] == 'missed']
@@ -210,11 +210,11 @@ alert_hours = missed_hourly[missed_hourly > missed_threshold_hour]
 calls_per_day = calls_filtered.groupby(calls_filtered['timestamp'].dt.date).size()
 low_call_days = calls_per_day[calls_per_day < low_call_threshold_day]
 if not alert_hours.empty:
-    st.error(f"🚨 High missed calls detected on: {', '.join(str(x) for x in alert_hours.index)}")
+    st.error(f"High missed calls detected on: {', '.join(str(x) for x in alert_hours.index)}")
 if not low_call_days.empty:
-    st.warning(f"⚠️ Low call volume on: {', '.join(str(x) for x in low_call_days.index)}")
+    st.warning(f"Low call volume on: {', '.join(str(x) for x in low_call_days.index)}")
 if alert_hours.empty and low_call_days.empty:
-    st.success("✅ All thresholds normal.")
+    st.success("All thresholds normal.")
 
 # ----- Outcome Pie Chart -----
 st.subheader("Call Outcome Distribution")
