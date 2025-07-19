@@ -1,0 +1,184 @@
+DEBUG | IG20 call_ok #2 Incoming 0721359131
+DEBUG | IG20 call_ok #3 Active 0721359131
+DEBUG | IG20 call_ok #4 Ended 0721359131
+DEBUG | IG20 call_ok #5 Incoming 0744543492
+DEBUG | IG20 call_ok #6 Active 0744543492
+DEBUG | IG20 call_ok #7 Ended 0744543492
+DEBUG | IG20 call_ok #8 Incoming 0733897231
+DEBUG | IG20 call_ok #9 Ended 0733897231
+DEBUG | IG20 call_ok #10 Missed 0733897231
+DEBUG | IG20 call_ok #11 Outgoing 0733897231
+DEBUG | IG20 call_ok #12 Active 0733897231
+DEBUG | IG20 call_ok #13 Ended 0733897231
+DEBUG | IG20 call_ok #14 Incoming 0743335835
+DEBUG | IG20 call_ok #15 Ended 0743335835
+DEBUG | IG20 call_ok #16 Missed 0743335835
+DEBUG | IG20 call_ok #17 Incoming 0746581551
+DEBUG | IG20 call_ok #18 Active 0746581551
+DEBUG | IG20 call_ok #19 Ended 0746581551
+DEBUG | IG20 call_ok #20 Outgoing 0743335835
+DEBUG | IG20 call_ok #21 Active 0743335835
+DEBUG | IG20 call_ok #22 Ended 0743335835
+DEBUG | IG20 call_ok #23 Outgoing 0764640893
+DEBUG | IG20 call_ok #24 Active 0764640893
+DEBUG | IG20 call_ok #25 Ended 0764640893
+DEBUG | IG20 call_ok #26 Incoming 0769925173
+DEBUG | IG20 call_ok #27 Active 0769925173
+DEBUG | IG20 call_ok #28 Ended 0769925173
+DEBUG | IG20 call_ok #29 Incoming 0764640893
+DEBUG | IG20 call_ok #30 Active 0764640893
+DEBUG | IG20 call_ok #31 Ended 0764640893
+DEBUG | IG20 call_ok #32 Incoming 3932910298
+DEBUG | IG20 call_ok #33 Active 3932910298
+DEBUG | IG20 call_ok #34 Ended 3932910298
+DEBUG | IG20 call_ok #35 Outgoing 0786298890
+DEBUG | IG20 call_ok #36 Active 0786298890
+DEBUG | IG20 call_ok #37 Ended 0786298890
+DEBUG | IG25 calls matched=36 ignored=0 no_time=0
+DEBUG | IG26 sms   matched=0 ignored=0
+DEBUG | IG25 calls matched=0 ignored=0 no_time=0
+DEBUG | IG26 sms   matched=0 ignored=0
+DEBUG | IG25 calls matched=0 ignored=0 no_time=0
+DEBUG | IG26 sms   matched=0 ignored=0
+DEBUG | IG33 sms_no_time_fmt #2 SMS:SMS from Any Number (Any Content) BT Info  Salut, Chitan
+DEBUG | IG30 sms_body #2  Salut, Chitanta ta e aici:  BTPOS app Suma(amount
+DEBUG | IG31 sms_dt #2 Data si Ora: 23/12/2024 17:55:11
+
+1
+DEBUG | IG23 sms_ok #2 received 4358157317
+DEBUG | IG33 sms_no_time_fmt #3 SMS:SMS Sent to [Orice număr de telefon] (Any Content) 07213
+DEBUG | IG30 sms_body #3  Buna ziua! Vă mulțumim că ati sunat la Cardio Hel
+DEBUG | IG34 sms_inline_fail #3
+DEBUG | IG49 sms_skip_ignore #3
+DEBUG | IG45 sms_postbody_ok #3 sent 0721359131
+DEBUG | IG33 sms_no_time_fmt #4 SMS:SMS Sent to [Orice număr de telefon] (Any Content) 07468
+DEBUG | IG30 sms_body #4  Buna ziua! Vă mulțumim că ati sunat la Cardio Hel
+DEBUG | IG34 sms_inline_fail #4
+DEBUG | IG49 sms_skip_ignore #4
+DEBUG | IG45 sms_postbody_ok #4 sent 0746865239
+DEBUG | IG33 sms_no_time_fmt #5 SMS:SMS Sent to [Orice număr de telefon] (Any Content) 07522
+DEBUG | IG30 sms_body #5  Buna ziua! Vă mulțumim că ati sunat la Cardio Hel
+DEBUG | IG34 sms_inline_fail #5
+DEBUG | IG49 sms_skip_ignore #5
+DEBUG | IG45 sms_postbody_ok #5 sent 0752200369
+DEBUG | IG33 sms_no_time_fmt #6 SMS:SMS Sent to [Orice număr de telefon] (Any Content) 07703
+DEBUG | IG30 sms_body #6  Buna ziua! Vă mulțumim că ati sunat la Cardio Hel
+DEBUG | IG34 sms_inline_fail #6
+DEBUG | IG49 sms_skip_ignore #6
+DEBUG | IG45 sms_postbody_ok #6 sent 0770312324
+DEBUG | IG33 sms_no_time_fmt #7 SMS:SMS from Any Number (Any Content) +40745792397  Buna ziu
+DEBUG | IG30 sms_body #7  Buna ziua, oare aveti astazi program la cardiohel
+DEBUG | IG34 sms_inline_fail #7
+DEBUG | IG49 sms_skip_ignore #7
+DEBUG | IG45 sms_postbody_ok #7 received 40745792397
+DEBUG | IG33 sms_no_time_fmt #8 SMS:SMS Sent to [Orice număr de telefon] (Any Content) 07486
+DEBUG | IG30 sms_body #8  Buna ziua! Vă mulțumim că ati sunat la Cardio Hel
+DEBUG | IG34 sms_inline_fail #8
+DEBUG | IG49 sms_skip_ignore #8
+DEBUG | IG45 sms_postbody_ok #8 sent 0748640020
+DEBUG | IG33 sms_no_time_fmt #9 SMS:SMS from Any Number (Any Content) BT Info  Salut, Chitan
+DEBUG | IG30 sms_body #9  Salut, Chitanta ta e aici:  BTPOS app Suma(amount
+DEBUG | IG31 sms_dt #9 Data si Ora: 27/12/2024 10:36:30
+
+1
+DEBUG | IG23 sms_ok #9 received 2081930069
+DEBUG | IG33 sms_no_time_fmt #10 SMS:SMS from Any Number (Any Content) BT Info  Salut, Chitan
+DEBUG | IG30 sms_body #10  Salut, Chitanta ta e aici:
+DEBUG | IG34 sms_inline_fail #10
+DEBUG | IG49 sms_skip_ignore #10
+DEBUG | IG25 calls matched=0 ignored=0 no_time=0
+DEBUG | IG26 sms   matched=8 ignored=1
+DEBUG | IG25 calls matched=0 ignored=0 no_time=0
+DEBUG | IG26 sms   matched=0 ignored=1
+INFO | CSV combined_calls.csv scris (14)
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Salut,
+Chitanta ta e aici:
+
+BTPOS app
+Suma(amount): 300,00 RON,
+Comerciant(merchant): CARDIO HELP TEAM S R L,
+Card: 1718,
+RRN: 435815731743,
+Terminal: E0100GSR,
+Raspuns: Aprobata,
+Data si Ora: 23/12/2024 17:55:11
+
+1. Data 23 December 2024
+2. Ora: 17:56 pm 16 s
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Buna ziua! Vă mulțumim că ati sunat la Cardio Help Team! Asistenta noastră este ocupată în acest moment, dar va reveni cu un apel  telefonic in cel mai scurt timp.
+
+Pentru alte informatii si programari online va invitam sa accesati website-ul nostru www.cardiohelpteam.ro
+
+Va multumim, pe curand!
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Buna ziua! Vă mulțumim că ati sunat la Cardio Help Team! Asistenta noastră este ocupată în acest moment, dar va reveni cu un apel  telefonic in cel mai scurt timp.
+
+Pentru alte informatii si programari online va invitam sa accesati website-ul nostru www.cardiohelpteam.ro
+
+Va multumim, pe curand!
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Buna ziua! Vă mulțumim că ati sunat la Cardio Help Team! Asistenta noastră este ocupată în acest moment, dar va reveni cu un apel  telefonic in cel mai scurt timp.
+
+Pentru alte informatii si programari online va invitam sa accesati website-ul nostru www.cardiohelpteam.ro
+
+Va multumim, pe curand!
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Buna ziua! Vă mulțumim că ati sunat la Cardio Help Team! Asistenta noastră este ocupată în acest moment, dar va reveni cu un apel  telefonic in cel mai scurt timp.
+
+Pentru alte informatii si programari online va invitam sa accesati website-ul nostru www.cardiohelpteam.ro
+
+Va multumim, pe curand!
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Buna ziua, oare aveti astazi program la cardiohelp alba iulia?
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Buna ziua! Vă mulțumim că ati sunat la Cardio Help Team! Asistenta noastră este ocupată în acest moment, dar va reveni cu un apel  telefonic in cel mai scurt timp.
+
+Pentru alte informatii si programari online va invitam sa accesati website-ul nostru www.cardiohelpteam.ro
+
+Va multumim, pe curand!
+DEBUG | [StandardParser.parse] failed in 0.0 ms
+DEBUG | [FlexibleDelimiterParser.parse] failed in 0.0 ms
+DEBUG | [KeywordBasedParser.parse] failed in 0.0 ms
+DEBUG | [LoosePatternParser.parse] failed in 0.0 ms
+WARNING | All strategies failed; UNPARSED SMS: Salut,
+Chitanta ta e aici:
+
+BTPOS app
+Suma(amount): 300,00 RON,
+Comerciant(merchant): CARDIO HELP TEAM S R L,
+Card: 8404,
+RRN: 208193006951,
+Terminal: E0100GSR,
+Raspuns: Aprobata,
+Data si Ora: 27/12/2024 10:36:30
+
+1. Data 27 December 2024
+2. Ora: 10:38 am 33 s
+INFO | CSV combined_sms.csv scris (8)
+INFO | Mostre ignorate salvate: 4 / 100
+INFO | ✔ OK. CSV-urile şi parser_stats.json au fost generate. Detalii: parser_debug.log
+INFO |    Blocuri eşuate descărcate: 2 → fail_debug-20250715-000408.log
+DEBUG | IG00 sms_parser_loaded SMSParsingEngine

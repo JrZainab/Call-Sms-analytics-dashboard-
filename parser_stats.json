@@ -1,0 +1,30 @@
+{
+  "totals": {
+    "blocks": 50,
+    "newlines": 46,
+    "call_match": 36,
+    "call_ignore": 0,
+    "call_no_time": 0,
+    "sms_match": 8,
+    "sms_ignore": 2,
+    "fail_blocks": 2
+  },
+  "consolidated_calls": 14,
+  "forced_closes": 0,
+  "reject_top5": [
+    [
+      "sms_ignore",
+      2
+    ],
+    [
+      "call_no_time",
+      0
+    ],
+    [
+      "call_ignore",
+      0
+    ]
+  ],
+  "fail_log": "fail_debug-20250715-000408.log",
+  "timezone": "Europe/Bucharest"
+}

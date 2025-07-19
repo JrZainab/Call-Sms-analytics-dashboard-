@@ -1,0 +1,14 @@
+
+
+--- BLOCK #10  SMS:SMS from Any Number (Any Content) BT Info
+IG33 sms_no_time_fmt #10 SMS:SMS from Any Number (Any Content) BT Info  Salut, Chitan
+IG30 sms_body #10  Salut, Chitanta ta e aici:
+IG34 sms_inline_fail #10
+IG49 sms_skip_ignore #10
+
+IG46 block_fail_flush #10 Δt=0.005s
+
+
+--- BLOCK #1  #!/usr/bin/env python3
+
+IG46 block_fail_flush #1 Δt=0.009s
